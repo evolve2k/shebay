@@ -1,8 +1,8 @@
 == SheBay - An example Training Rails App
-SheBay is eBay for Women, Revolutionary!
+SheBay is eBay for Women, Totally Amazing!
 
 == Getting going
-SheBay is a standard Rails3 app
+SheBay is a Rails 3 application.
 *Clone the repo
 *Bundle install
 *Rails Server
@@ -16,8 +16,9 @@ The client is seeking a niche modern site, inspired by eBay but focussed exclusi
 The main work in the site is contained in the products and auctions models.
 The auction closing algorithm is fairly involved, see Rspec tests to get a better idea of how it works.
 
-
-
+== Tools
+We utilise PivotalTracker for management of stories & features.
+We use GitHub as our central code repository. 
 
 
 
