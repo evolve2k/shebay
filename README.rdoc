@@ -15,6 +15,8 @@ SheBay is a Women's revolution in online shopping.
 The client is seeking a niche modern site, inspired by eBay but focussed exclusively on women.
 The main work in the site is contained in the products and auctions models.
 The auction closing algorithm is fairly involved, see Rspec tests to get a better idea of how it works.
+Users can upload photos of dresses.
+
 
 == Tools
 We utilise PivotalTracker for management of stories & features.
